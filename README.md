@@ -1,9 +1,9 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : [NAMA]  
-NIU : [NIU]  
-Sesi : [SESI]  
-Secret String : [SECRET_STRING]
+Nama : Btari Fatma Rosa  
+NIU : 456361
+Sesi : Rabu  
+Secret String : 674fe91b0e7b13df109b4fb077e512fbf08e7a4cece940a5e5ce8d411735e9db20230616071541 
 
 ## Checklist Responsi
 
@@ -15,4 +15,4 @@ Berikut adalah poin-poin yang telah berhasil dilakukan oleh praktikan:
 - [ ] Melakukan _fork_ dan _clone_ _repository_.
 - [ ] Meng-_generate_ _secret string_
 - [ ] Melakukan _commit_ dan _push_ perubahan pada _repository_ hasil _fork_
-- [x] Contoh pemberian tanda checklist. Hapus sebelum push.
+- [ ] Contoh pemberian tanda checklist. Hapus sebelum push.
